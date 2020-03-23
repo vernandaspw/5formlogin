@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'arial';
+    background-color: rgb(16, 186, 253);
+}
+
+.wrap {
+    width: 400px;
+    overflow: hidden;
+    margin: auto;
+    margin-top: 180px;
+    padding: 20px;
+    background: #ffffff;
+    border: 0px solid silver;
+    border-radius: 10px;
+}
+
+.wrap h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.wrap input {
+    width: 388px;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid silver;
+    padding: 5px;
+}
+
+.wrap .btn-login {
+    padding: 5px;
+    width: 400px;
+    height: 40px;
+    background-color: #3498db;
+    color: #ffffff;
+    border-radius: 3px;
+    border: 0;
+    font-size: 18px;
+}
